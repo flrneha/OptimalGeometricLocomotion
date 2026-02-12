@@ -1,0 +1,27 @@
+name: OptimalGeometricLocomotion
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  # Core dependencies
+  - numpy
+  - scipy
+  - numba
+  - matplotlib
+  
+  # Development dependencies
+  - numdifftools
+
+#jupyter
+  - jupyter
+  - jupyterlab
+  
+  # Build tools
+  - setuptools
+  - wheel
+  - pip
+  
+  # For building C++ bindings
+  - cmake
+  - compilers

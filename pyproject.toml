@@ -1,0 +1,29 @@
+[project]
+name = "OptimalGeometricLocomotion"
+version = "0.1.0"
+description = "This project provides code to compute optimal geometric locomotion paths."
+readme = "README.md"
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "numba",
+    "matplotlib"
+]
+
+[project.optional-dependencies]
+jupyter = [
+    "ipython",
+    "ipykernel",
+    "notebook"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+geometriclocomotion = "geometriclocomotion:main"
+
+
+
