@@ -7,6 +7,10 @@ The code implements a geometric framework based on sub-Riemannian geodesics to c
 We can solve three different types of boundary conditions, i.e., fixing initial and target body, restricting to cyclic motion,
 or solely prescribing body displacement and orientation. We provide examples as [notebooks](examples/notebooks) and [scripts](examples/scripts) for all three types.
 
+
+https://github.com/user-attachments/assets/ac881dde-8471-4f46-b02c-c27a619d7847
+
+
 # Project Setup Guide
 
 This guide will help you set up the development environment for this project, which includes Python dependencies and C++ Python bindings.
