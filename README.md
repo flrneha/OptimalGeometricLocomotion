@@ -1,6 +1,6 @@
 # Optimal Geometric Locomotion
-**Note: This repository is under active development and accompanies the paper "*Sub-Riemannian Boundary Value Problems for Optimal Geometric Locomotion*" 
-by *Oliver Gross, Florine Hartwig, Martin Rumpf, and Peter Schröder* (in preparation). If you have any questions, feel free to reach out to [Florine Hartwig](https://ins.uni-bonn.de/staff/hartwig)**
+**Note: This repository is under active development and accompanies the paper [Sub-Riemannian Boundary Value Problems for Optimal Geometric Locomotion](https://olligross.github.io/projects/EfficientLocomotion/EfficientLocomotion_project.html)
+by *Oliver Gross, Florine Hartwig, Martin Rumpf, and Peter Schröder*. If you have any questions, feel free to reach out to [Florine Hartwig](https://ins.uni-bonn.de/staff/hartwig)**
 
 This project provides computational tools for modeling and optimizing shape-change-induced motions of slender locomotors.
 The code implements a geometric framework based on sub-Riemannian geodesics to compute energy-efficient locomotion gaits.
